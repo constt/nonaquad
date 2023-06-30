@@ -32,9 +32,8 @@ lto = "thin"
 [package.metadata.android]
 # Specifies the array of targets to build for.
 # Defaults to "armv7-linux-androideabi", "aarch64-linux-android", "i686-linux-android".
-build_targets = ["armv7-linux-androideabi"]
 fullscreen = true
-opengles_version_major = 2
+opengles_version_major = 3
 opengles_version_minor = 0
 package_name = "nokola.app.drawaa"
 
